@@ -9,5 +9,5 @@ COPY requirements.txt /
 RUN pip3 install -r /requirements.txt
 
 WORKDIR /
-EXPOSE 5000/tcp
-CMD uvicorn --reload --host 0.0.0.0 --port 5000 --log-level info --app-dir app example:app
+EXPOSE 5050/tcp
+CMD uvicorn --reload --host 0.0.0.0 --port 5050 --log-level info --app-dir app example:app
