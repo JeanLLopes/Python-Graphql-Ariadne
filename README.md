@@ -1,5 +1,5 @@
 # Python-Graphql-Ariadne
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/JeanLLopes/Python-Graphql-Ariadne/actions/workflows/python-package.yml/badge.svg)
 
 <br>
 
