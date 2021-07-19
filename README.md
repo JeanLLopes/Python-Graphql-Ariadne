@@ -9,7 +9,7 @@
 
 <b>Build docker image with dockerfile</b>
 ```
-docker build -t {PROJECT-NAME}
+docker build -t {PROJECT-NAME} .
 ```` 
 
 <br>
